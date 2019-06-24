@@ -1,0 +1,5 @@
+Informe 2:
+JOSÉ LUIS CUMBRERA SÁNCHEZ
+
+En este informe incluyo codigo funcional para analizar la imagen, dividirla y centrarla. Esta todo hehco para el uso de una imagen de internet llamada "prueba.jpg", no
+funcionaria con la tabla de prueba que Pedro empleara, el siguiente paso el ajustarla a ese tamaño de entrada para analizar cada centra 1 a 1.
